@@ -1,0 +1,16 @@
+.mainContainer{
+    color: aliceblue;
+    margin-top: 300px;
+    
+}
+.image{
+    border: solid 3px ;
+    box-shadow: 15px 15px 15px #080101cc ;
+    border-radius: 10px;
+    
+ }
+ .textContainer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

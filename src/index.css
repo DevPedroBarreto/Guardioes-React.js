@@ -1,0 +1,13 @@
+body {
+  background-color: #2B2726;
+  height: 900px;
+  width: auto;
+  text-align: center;
+  font-family: 'Guardians';
+ 
+}
+@font-face {
+  font-family: 'Guardians';
+  src: url('./fonts/Guardians.ttf') format('truetype');
+}
+
